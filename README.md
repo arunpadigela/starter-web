@@ -28,3 +28,5 @@ Some more data
 ### Copyright Notice
 
 Git.Learning
+
+Adding a line for rebasing
