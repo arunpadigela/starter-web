@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arun Padigela arunpadigela95@gmail.com
 
 # THANKS
 
