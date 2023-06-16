@@ -9,6 +9,8 @@ This is simple website project
 
 ## How to Contribute
 
+
+Please fork this repo and issue a pull resuest for review
 ## Deployment
 
 shows the deployment instructions
